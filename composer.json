@@ -1,0 +1,21 @@
+{
+    "name": "yii2x/yii2-filesystem",
+    "description": "Yii2 Filesystem",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Yuriy Basov",
+            "email": "w3devlab@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2x\\filesystem\\": ""
+        }
+    }
+}
