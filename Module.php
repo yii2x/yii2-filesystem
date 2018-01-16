@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\yii2x\filesystem;
+namespace \yii2x\filesystem;
 
 /**
  * enterprise module definition class

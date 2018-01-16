@@ -13,6 +13,9 @@
     "require": {
         "yiisoft/yii2": "*"
     },
+    "extra": {
+        "bootstrap": "\\yii2x\\filesystem\\Bootstrap"
+    },     
     "autoload": {
         "psr-4": {
             "yii2x\\filesystem\\": ""
